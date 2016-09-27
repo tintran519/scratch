@@ -4,8 +4,8 @@
     * Where content is stored; can be seen in browser
 * Span
     * Provides identification to a certain group of text 
-* <hr>  
-    * Creates horizontal line on page
+* hr tag    
+    * Creates horizontal line on page    
 ### Intro to Bash
 * ps 
     * processes info
